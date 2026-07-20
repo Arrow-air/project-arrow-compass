@@ -38,5 +38,3 @@ The raw ranking put Manufacturing AIP, Contributor pipeline and Revenue streams 
 2. First bounty batch drafted against the push priorities (≥4 minimum, aiming higher)
 3. Second biweekly meeting (~31 July): bounty brainstorm, assignments
 4. Progress update #2 at period close (~2 August)
-
-Want in before the bounty board exists? The attachment developer ecosystem is the easiest way in, and Discord is where to raise your hand.
