@@ -1,4 +1,4 @@
-# Arrow Compass — Progress Update #1
+# Arrow Compass: Progress Update #1
 
 **Period 1, weeks 1–2 (6 – 19 July 2026)** · Posted by Sleety, Compass Keeper
 
