@@ -15,7 +15,7 @@ First of the biweekly updates I committed to under the Compass proposal. Honest 
 
 The raw ranking put Manufacturing AIP, Contributor pipeline, and Revenue streams clear of everything else — this wasn't a coin flip; the group converged. In the closing discussion we consolidated: tokenomics folds into the manufacturing push, GitHub workflow improvements fold into the pipeline, and revenue moved to the protect tier since it's downstream of manufacturing and the devkit launch. Two pushes, deliberately. Full results, individual rankings, and discussion notes are in the [session record](../sessions/2026-07-17-session-01.md).
 
-**We built a tool for it.** The ranking ran on a purpose-built realtime app ([arrow-compass.vercel.app](https://arrow-compass.vercel.app)) — live cursors, personal ranked columns, live consensus scoring — all on free tiers at $0. It stays up for next quarter's session.
+**We built a tool for it.** The ranking ran on a purpose-built realtime app ([arrow-compass.vercel.app](https://arrow-compass.vercel.app)) — live cursors, personal ranked columns, live consensus scoring — all on free tiers at $0. It stays up for next quarter's session, and the source is open at [sl33ty/arrow-apps](https://github.com/sl33ty/arrow-apps/tree/main/apps/compass).
 
 ## What didn't move yet
 
