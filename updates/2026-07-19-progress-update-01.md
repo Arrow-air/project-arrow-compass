@@ -2,24 +2,24 @@
 
 **Period 1, weeks 1–2 (6 – 19 July 2026)** · Posted by Sleety, Compass Keeper
 
-First of the biweekly updates I committed to under the Compass proposal. Honest ledger: what moved, what didn't.
+First of the biweekly updates I signed up for under the Compass proposal. Honest ledger: what moved, what didn't.
 
 ## What moved
 
-**The proposal passed.** The Media / Docs / Compass bundle closed on Snapshot 11 July with 3.39M $ARROW For, zero Against, quorum cleared. Thank you to everyone who voted. Work formally started 6 July.
+**The proposal passed.** The Media / Docs / Compass bundle closed on Snapshot 11 July with 3.39M $ARROW For, zero Against, quorum cleared. Thanks to everyone who voted. The clock started 6 July.
 
-**The first Compass session happened.** 17 July, eight contributors aboard, six full rankings submitted. We ranked the DAO's focus areas live and locked the quarter's consensus:
+**The first Compass session happened.** 17 July, eight contributors aboard, six full rankings in. We ranked the DAO's focus areas live and locked the quarter's consensus:
 
 - 🎯 **Push:** 1) Manufacturing AIP / Tokenomics (finalize AIP-009, onboard first manufacturers, tokenomics fleshed out with it), 2) Contributor Pipeline (rolling board of 10+ funded bounties, contributor UX, GitHub workflow)
 - 🛡️ **Don't drop:** Revenue Streams (AIP-009, dev kit), Attachment Developer Ecosystem, Quiver devkit launch and product UX.
 
-The raw ranking put Manufacturing AIP, Contributor pipeline, and Revenue streams clear of everything else — this wasn't a coin flip; the group converged. In the closing discussion we consolidated: tokenomics folds into the manufacturing push, GitHub workflow improvements fold into the pipeline, and revenue moved to the protect tier since it's downstream of manufacturing and the devkit launch. Two pushes, deliberately. Full results, individual rankings, and discussion notes are in the [session record](../sessions/2026-07-17-session-01.md).
+The raw ranking put Manufacturing AIP, Contributor pipeline and Revenue streams clear of everything else, so this wasn't a coin flip. In the closing discussion we merged things down: tokenomics belongs inside the manufacturing push, GitHub workflow improvements belong inside the pipeline, and revenue slid to the protect tier because it flows downstream of manufacturing and the devkit launch. Two pushes, on purpose. Full results, individual rankings and discussion notes are in the [session record](../sessions/2026-07-17-session-01.md).
 
-**We built a tool for it.** The ranking ran on a purpose-built realtime app ([arrow-compass.vercel.app](https://arrow-compass.vercel.app)) — live cursors, personal ranked columns, live consensus scoring — all on free tiers at $0. It stays up for next quarter's session, and the source is open at [sl33ty/arrow-apps](https://github.com/sl33ty/arrow-apps/tree/main/apps/compass).
+**We built a tool for it.** The ranking ran on a purpose-built realtime app, [arrow-compass.vercel.app](https://arrow-compass.vercel.app): live cursors, personal ranked lanes, consensus scored live, all running on free tiers for $0. It stays up for next quarter's session, and the source is open at [sl33ty/arrow-apps](https://github.com/sl33ty/arrow-apps/tree/main/apps/compass).
 
 ## What didn't move yet
 
-**Bounties: 0 created so far, ≥4 committed this period.** This is the gap. The next two weeks are bounty-creation weeks: the second biweekly meeting (~31 July) is dedicated to breaking the push priorities into the first scoped, funded batch.
+**Bounties: 0 created so far, ≥4 committed this period.** This is the gap. The next two weeks are bounty-creation weeks, and the second biweekly meeting (~31 July) is all about breaking the push priorities into the first scoped, funded batch.
 
 **The standing compass doc** isn't live in the Arrow docs yet. It's written and lands in a docs PR this week.
 
@@ -39,4 +39,4 @@ The raw ranking put Manufacturing AIP, Contributor pipeline, and Revenue streams
 3. Second biweekly meeting (~31 July): bounty brainstorm, assignments
 4. Progress update #2 at period close (~2 August)
 
-If you want in before the bounty board exists: the attachment developer ecosystem is the lowest-barrier entry point, and Discord is where to raise your hand.
+Want in before the bounty board exists? The attachment developer ecosystem is the easiest way in, and Discord is where to raise your hand.
