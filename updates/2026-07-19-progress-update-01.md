@@ -13,9 +13,9 @@ First of the biweekly updates I committed to under the Compass proposal. Honest 
 - 🎯 **Push:** 1) Manufacturing AIP / Tokenomics (finalize AIP-009, onboard first manufacturers, tokenomics fleshed out with it), 2) Contributor Pipeline (rolling board of 10+ funded bounties, contributor UX, GitHub workflow)
 - 🛡️ **Don't drop:** Revenue Streams (AIP-009, dev kit), Attachment Developer Ecosystem, Quiver devkit launch and product UX.
 
-The raw ranking put Manufacturing AIP, Contributor pipeline, and Revenue streams clear of everything else — this wasn't a coin flip; the group converged. In the closing discussion we consolidated: tokenomics folds into the manufacturing push, GitHub workflow improvements fold into the pipeline, and revenue — being downstream of manufacturing and the devkit launch — moved to the protect tier. Two pushes, deliberately. Full results, individual rankings, and discussion notes are in the [session record](../sessions/2026-07-17-session-01.md).
+The raw ranking put Manufacturing AIP, Contributor pipeline, and Revenue streams clear of everything else — this wasn't a coin flip; the group converged. In the closing discussion we consolidated: tokenomics folds into the manufacturing push, GitHub workflow improvements fold into the pipeline, and revenue moved to the protect tier since it's downstream of manufacturing and the devkit launch. Two pushes, deliberately. Full results, individual rankings, and discussion notes are in the [session record](../sessions/2026-07-17-session-01.md).
 
-**We built a tool for it.** The ranking ran on a purpose-built realtime app (live cursors, personal ranked columns, live consensus scoring), running entirely on free tiers at $0. It stays up for next quarter's session.
+**We built a tool for it.** The ranking ran on a purpose-built realtime app (live cursors, personal ranked columns, live consensus scoring), all on free tiers at $0. It stays up for next quarter's session.
 
 ## What didn't move yet
 
