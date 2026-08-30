@@ -24,3 +24,21 @@ Cap **$1,280 USDC / 4-week period**. Standard period splits 3 ways (~$426.67/lin
 **The four bounties.** Two against each push goal: P1 onboarding audit and P7 live event calendar against the contributor pipeline, A9 AIP-009 accelerator and D9 purchase flow design against the manufacturing AIP. The gate reads *created or assigned*, so filing is the trigger.
 
 _(Standard mid-quarter periods drop the first line and split 3 ways at ~$426.67. Copy the right block per period. 7 periods total, ending ~18 January 2027.)_
+
+## Period 2 — 3 August to 30 August 2026 (standard period)
+
+<!-- DRAFT: confirm the zero lines before publishing -->
+
+| Criterion | Committed | Delivered | Met? | Line value | Released | Evidence |
+| --- | --- | ---: | :---: | ---: | ---: | --- |
+| Meetings held (every 2 weeks) | 2 | 0 | ❌ | ~$426.67 | $0 | — |
+| Progress update posted | 2 | 0 | ❌ | ~$426.67 | $0 | — |
+| Bounties created / assigned | ≥ 4 | 0 | ❌ | ~$426.67 | $0 | — |
+
+**Released:** $0 / $1,280
+
+### Notes
+
+No Compass payment this period. The Texas meetup fell across the period and took the time that normally goes to meeting prep and hosting, so no sessions ran and the downstream lines (updates, bounties) had nothing to report against. The gate worked as designed: no delivery, no release, and the cap does not roll over.
+
+Normal cadence resumes in Period 3.
