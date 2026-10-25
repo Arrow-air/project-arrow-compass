@@ -4,14 +4,14 @@ Arrow DAO project under [AIP-006](https://github.com/Arrow-air/dao-aips/blob/mai
 
 | | |
 |---|---|
-| **Status** | Proposed — Snapshot vote 4–11 July 2026; work begins 6 July at the leader's risk |
+| **Status** | Active since 6 July 2026, approved by Snapshot vote (4 to 11 July 2026) and recorded in AIP-007 |
 | **Lead** | Sleety (@sl33ty), Keeper of the Compass |
 | **Cap** | $1,280 USDC / 4-week pay period (AIP-004 L4), no rollover |
 | **Term** | 7 four-week periods, funding to ~18 January 2027 |
 | **Frozen spec** | [PROPOSAL.md @ `v1-proposal`](./PROPOSAL.md) — the version the vote binds |
 | **Accountability** | [accountability/](./accountability/) — updated each period; no table, no payment |
 
-**Links:** forum proposal [TODO] · Snapshot vote [TODO] · AIP-007 amendment [TODO]
+**Links:** [forum proposal](https://dao.arrowair.com/t/media-docs-compass-project-proposal-discussion/169) · [Snapshot](https://snapshot.org/#/s:arrowair.eth) · [AIP-007 amendment](https://github.com/Arrow-air/dao-aips/pull/20)
 
 ## What this is
 
